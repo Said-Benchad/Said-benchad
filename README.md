@@ -22,7 +22,7 @@
   <a href="https://github.com/Said-benchad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
+  <img src="https://img.shields.io/badge/Open%20to%20Relocation-🇳🇱%20Netherlands-FF6B35?style=for-the-badge" />
 </p>
 
 <!-- Profile views counter -->
@@ -34,17 +34,13 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const said = {
-  role:       "Full Stack Software Engineer",
-  location:   "Rabat, Morocco 🇲🇦",
-  experience: "2+ years shipping production-grade apps",
-  focus:      ["Flutter", "React 18", "TypeScript", "PHP/Laravel", "Node.js"],
-  currently:  "@ Nethub — owning 12 Flutter apps for ARMA HOLDING (8,000+ daily users)",
-  languages:  ["Arabic 🇲🇦 (native)", "French 🇫🇷 (C1)", "English 🇬🇧 (C1)"],
-  funFact:    "I cut Audi's quote processing time from 60 min → 10 min 🏎️",
-};
-```
+Full Stack Software Engineer with **2+ years** of experience shipping production-grade mobile and web apps used by thousands of daily users.
+
+- 🏢 Currently **@ Nethub** — owning 12 Flutter apps for ARMA HOLDING, serving **8,000+ agents daily**
+- 📍 Based in **Rabat, Morocco** — actively open to relocation to 🇳🇱 **the Netherlands**
+- 💬 **Arabic** (native) · **French** C1 · **English** C1
+- ⚡ Fun fact: I slashed Audi's quote processing time from **60 min → 10 min** 🏎️
+- 🎯 Focused on **Flutter · React 18 · TypeScript · PHP/Laravel · Node.js**
 
 ---
 
