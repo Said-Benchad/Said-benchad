@@ -37,7 +37,7 @@
 ```typescript
 const said = {
   role:       "Full Stack Software Engineer",
-  location:   "Rabat, Morocco 🇲🇦 → Open to relocation 🇳🇱",
+  location:   "Rabat, Morocco 🇲🇦",
   experience: "2+ years shipping production-grade apps",
   focus:      ["Flutter", "React 18", "TypeScript", "PHP/Laravel", "Node.js"],
   currently:  "@ Nethub — owning 12 Flutter apps for ARMA HOLDING (8,000+ daily users)",
