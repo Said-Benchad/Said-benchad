@@ -22,7 +22,6 @@
   <a href="https://github.com/Said-benchad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Relocation-🇳🇱%20Netherlands-FF6B35?style=for-the-badge" />
 </p>
 
 <!-- Profile views counter -->
