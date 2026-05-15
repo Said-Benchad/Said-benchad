@@ -104,12 +104,6 @@ Full Stack Software Engineer with **2+ years** of experience shipping production
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Said-benchad&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
-### ⏱️ Wakatime Coding Activity
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Said-benchad&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&layout=compact" />
-</div>
-
 ---
 
 ## 🚀 Key Highlights
