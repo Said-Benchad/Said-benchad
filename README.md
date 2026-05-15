@@ -164,9 +164,7 @@ Faculty of Science and Technology (FST), Settat · *2021 – 2022*
 
 | | |
 |:---:|:---:|
-| 🌐 **Portfolio** | [felixolio.vercel.app](https://felixolio.vercel.app) |
 | 💼 **LinkedIn** | [linkedin.com/in/Said-Benchad](https://linkedin.com/in/Said-Benchad) |
-| 🐙 **GitHub** | [github.com/Said-benchad](https://github.com/Said-benchad) |
 | 📧 **Email** | [saidbenchad123@gmail.com](mailto:saidbenchad123@gmail.com) |
 | 📞 **Phone** | +212 641-817 899 |
 
