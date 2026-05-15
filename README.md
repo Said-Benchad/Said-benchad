@@ -90,7 +90,7 @@ Full Stack Software Engineer with **2+ years** of experience shipping production
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Said-benchad&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Said-benchad&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Said-benchad&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
