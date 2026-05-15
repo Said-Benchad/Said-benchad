@@ -35,7 +35,7 @@
 
 Full Stack Software Engineer with **2+ years** of experience shipping production-grade mobile and web apps used by thousands of daily users.
 
-- 🏢 Currently **@ Nethub** — owning 12 Flutter apps for ARMA HOLDING, serving **8,000+ agents daily**
+- 🏢 Currently **@ Nethub** — owning 12 Flutter apps, serving **8,000+ agents daily**
 - 📍 Based in **Rabat, Morocco**
 - 💬 **Arabic** (native) · **French** C1 · **English** C1
 - ⚡ Fun fact: I slashed Audi's quote processing time from **60 min → 10 min** 🏎️
